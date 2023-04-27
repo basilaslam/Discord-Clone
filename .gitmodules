@@ -1,0 +1,18 @@
+[submodule "Discord-Clone-backend-socket-server"]
+	path = Discord-Clone-backend-socket-server
+	url = https://github.com/basilaslam/Discord-Clone-backend-socket-server
+[submodule "Discord-Clone-backend-messaging-service"]
+	path = Discord-Clone-backend-messaging-service
+	url = https://github.com/basilaslam/Discord-Clone-backend-messaging-service
+[submodule "Discord-Clone-backend-main-service"]
+	path = Discord-Clone-backend-main-service
+	url = https://github.com/basilaslam/Discord-Clone-backend-main-service
+[submodule "discord-front-styleguide"]
+	path = discord-front-styleguide
+	url = https://github.com/basilaslam/discord-front-styleguide
+[submodule "front-config"]
+	path = front-config
+	url = https://github.com/basilaslam/front-config
+[submodule "discord-front-user"]
+	path = discord-front-user
+	url = https://github.com/basilaslam/discord-front-user
